@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#FFAAAAAA</color>
+    <color name="teal_mint">#FF66FFCC</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="light_gray_card">#FFF5F5F5</color>
+    <color name="light_gray_tag">#FFE0E0E0</color>
 </resources>
